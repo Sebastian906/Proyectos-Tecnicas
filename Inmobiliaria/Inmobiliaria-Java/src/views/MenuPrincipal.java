@@ -35,6 +35,7 @@ public class MenuPrincipal extends Application {
         Button btnReservar    = crearBoton("Gestión de Reservas", "#FF9800");
         Button btnHistorial   = crearBoton("Historial y Búsquedas", "#607D8B");
         Button btnRegistrar   = crearBoton("Registrar Propiedad", "#00BCD4");
+        Button btnRegistrarUsuario = crearBoton("Registrar Usuario", "#00ACC1");
         Button btnSalir       = crearBoton("Salir", "#F44336");
 
         // Acciones
@@ -53,6 +54,9 @@ public class MenuPrincipal extends Application {
         btnHistorial.setOnAction(e ->
             new MenuHistorial(controlador).mostrar(primaryStage));
 
+        btnRegistrarUsuario.setOnAction(e ->
+            new MenuRegistroUsuario(controlador).mostrar(primaryStage));
+
         btnRegistrar.setOnAction(e ->
             new MenuRegistro(controlador).mostrar(primaryStage));
 
@@ -68,7 +72,7 @@ public class MenuPrincipal extends Application {
         VBox layout = new VBox(12,
             titulo, subtitulo,
             btnPropiedades, btnBuscar, btnOrdenar,
-            btnReservar, btnHistorial, btnRegistrar,
+            btnReservar, btnHistorial, btnRegistrarUsuario, btnRegistrar,
             btnSalir);
         layout.setAlignment(Pos.CENTER);
         layout.setPadding(new Insets(30));

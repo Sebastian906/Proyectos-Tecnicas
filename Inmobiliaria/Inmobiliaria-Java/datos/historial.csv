@@ -1,3 +1,13 @@
-1,0,BUSQUEDA,Búsqueda por rango de precio,2026-05-19 14:06:14,1 resultado(s)
-2,0,BUSQUEDA,Búsqueda avanzada con filtros,2026-05-19 14:06:28,1 resultado(s)
-3,0,BUSQUEDA,Búsqueda binaria por precio $2.500.000,2026-05-19 14:06:40,Encontrada
+1,0,BUSQUEDA,Búsqueda por rango de precio,2026-05-19 14:44:35,1 resultado(s)
+2,0,BUSQUEDA,Búsqueda avanzada con filtros,2026-05-19 14:44:35,1 resultado(s)
+3,0,BUSQUEDA,Búsqueda binaria por precio $2.500.000,2026-05-19 14:44:35,Encontrada
+4,0,BUSQUEDA,Ordenamiento merge por precio ASC,2026-05-19 14:44:35,11 casas ordenadas
+5,0,BUSQUEDA,Ordenamiento burbuja por precio ASC,2026-05-19 14:44:35,11 casas ordenadas
+6,0,BUSQUEDA,Ordenamiento seleccion por precio ASC,2026-05-19 14:44:35,11 casas ordenadas
+7,0,BUSQUEDA,Ordenamiento insercion por precio ASC,2026-05-19 14:44:35,11 casas ordenadas
+8,0,BUSQUEDA,Ordenamiento merge por area ASC,2026-05-19 14:44:35,11 casas ordenadas
+9,0,BUSQUEDA,Ordenamiento merge por dormitorios ASC,2026-05-19 14:44:35,11 casas ordenadas
+10,0,BUSQUEDA,Ordenamiento merge por ciudad ASC,2026-05-19 14:44:35,11 casas ordenadas
+11,0,BUSQUEDA,Ordenamiento seleccion por ciudad ASC,2026-05-19 14:44:35,11 casas ordenadas
+12,1,RESERVA,Reserva creada para casa ID=2,2026-05-19 14:45:21,ENCOLADA
+13,1,RESERVA,Procesamiento de reserva #1,2026-05-19 14:45:26,CONFIRMADA

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 2,
+        "direccion": "Av Libertad 123",
+        "ciudad": "Montevideo",
+        "precio": 75000.0,
+        "area": 85,
+        "dormitorios": 2,
+        "banos": 1,
+        "disponible": true,
+        "descripcion": "Departamento luminoso con balcon",
+        "propietario": "Maria Gonzalez"
+    },
+    {
+        "id": 3,
+        "direccion": "Calle 9 de Julio 456",
+        "ciudad": "Montevideo",
+        "precio": 120000.0,
+        "area": 120,
+        "dormitorios": 3,
+        "banos": 2,
+        "disponible": true,
+        "descripcion": "Casa con jardin y parrillero",
+        "propietario": "Juan Perez"
+    },
+    {
+        "id": 4,
+        "direccion": "Pasaje Las Flores 21",
+        "ciudad": "Maldonado",
+        "precio": 200000.0,
+        "area": 200,
+        "dormitorios": 4,
+        "banos": 3,
+        "disponible": false,
+        "descripcion": "Residencia cerca de la playa",
+        "propietario": "Ana Rodriguez"
+    },
+    {
+        "id": 5,
+        "direccion": "Boulevard Artigas 98",
+        "ciudad": "Colonia",
+        "precio": 95000.0,
+        "area": 100,
+        "dormitorios": 3,
+        "banos": 2,
+        "disponible": true,
+        "descripcion": "Casa antigua remodelada",
+        "propietario": "Lucia Fernandez"
+    },
+    {
+        "id": 6,
+        "direccion": "Calle Principal 10",
+        "ciudad": "Paysandu",
+        "precio": 45000.0,
+        "area": 60,
+        "dormitorios": 1,
+        "banos": 1,
+        "disponible": true,
+        "descripcion": "Pequena propiedad ideal inversores",
+        "propietario": "Carlos Ramirez"
+    },
+    {
+        "id": 7,
+        "direccion": "Avenida San Martin 250",
+        "ciudad": "Canelones",
+        "precio": 160000.0,
+        "area": 150,
+        "dormitorios": 4,
+        "banos": 2,
+        "disponible": true,
+        "descripcion": "Vivienda moderna con piscina",
+        "propietario": "Sofia Morales"
+    },
+    {
+        "id": 8,
+        "direccion": "Ruta 3 Km 12",
+        "ciudad": "Salto",
+        "precio": 80000.0,
+        "area": 90,
+        "dormitorios": 2,
+        "banos": 2,
+        "disponible": false,
+        "descripcion": "Propiedad rural con terreno amplio",
+        "propietario": "Diego Lopez"
+    },
+    {
+        "id": 9,
+        "direccion": "Calle del Sol 5",
+        "ciudad": "Rocha",
+        "precio": 135000.0,
+        "area": 110,
+        "dormitorios": 3,
+        "banos": 2,
+        "disponible": true,
+        "descripcion": "Excelente vista al mar",
+        "propietario": "Valeria Suarez"
+    },
+    {
+        "id": 10,
+        "direccion": "Avenida Central 77",
+        "ciudad": "Montevideo",
+        "precio": 60000.0,
+        "area": 70,
+        "dormitorios": 2,
+        "banos": 1,
+        "disponible": true,
+        "descripcion": "Departamento cercano al centro",
+        "propietario": "Martin Diaz"
+    },
+    {
+        "id": 11,
+        "direccion": "Calle Nueva 30",
+        "ciudad": "Rivera",
+        "precio": 99000.0,
+        "area": 105,
+        "dormitorios": 3,
+        "banos": 2,
+        "disponible": true,
+        "descripcion": "Ideal para familias",
+        "propietario": "Laura Castillo"
+    }
+]
